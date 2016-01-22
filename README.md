@@ -1,3 +1,5 @@
+#Magento with Nexmo SMS
+
 <img src="https://github.com/AdvaiyaLabs/Magento-with-Nexmo-SMS/blob/master/Docs/image1.png" width=200>
 
 ##Introduction
@@ -102,7 +104,7 @@ Over the past years, mobile has become the most impactful communication platform
 
     <img src="https://github.com/AdvaiyaLabs/Magento-with-Nexmo-SMS/blob/master/Docs/image13.png" width=600>
 
-4.  The shop owner/customer will get an SMS if the order amount is more than the threshold value.
+4.  The shop owner/customer will get an SMS if the order amount is more than the threshold amount.
 
 ##Generating an Invoice 
 
