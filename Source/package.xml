@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>MagentoWithNexmoSMS</name>
+    <version>1.0.0</version>
+    <stability>alpha</stability>
+    <license>open</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>an app to send SMS on several events in magento</summary>
+    <description>an app to send SMS on several events in magento</description>
+    <notes>an app to send SMS on several events in magento.(Order creation, Order cancellation, Invoice creation, order completion)</notes>
+    <authors><author><name>nexmo</name><user>nexmo</user><email>admin@nexmo.com</email></author></authors>
+    <date>2016-01-05</date>
+    <time>11:53:22</time>
+    <contents><target name="magelocal"><dir name="Nexmo"><dir name="Nexmosms"><dir name="Block"><file name="Nexmoblock.php" hash="f9672615ea3ca46f0224f7d397ce95b9"/></dir><dir name="Helper"><file name="Data.php" hash="e2cd7010609b093ab367a43ac1dbc837"/></dir><dir name="Model"><file name="Observer.php" hash="6209c992ee66f82ed82aa00610db30da"/><file name="Settings.php" hash="91a8e1d010ab10684e441e2d71982809"/></dir><dir name="controllers"><file name="IndexController.php" hash="e05527531da82c5b38089f39c6878a15"/></dir><dir name="etc"><file name="config.xml" hash="ce70277ea8a142cde8a910f10147487d"/><file name="system.xml" hash="0106bfb51b4d840da6dee4120824b6a5"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Nexmo_All.xml" hash="57f57256d35f00718f5f38cfeb41dad0"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.3.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

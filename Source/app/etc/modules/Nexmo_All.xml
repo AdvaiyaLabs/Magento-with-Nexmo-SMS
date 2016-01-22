@@ -1,0 +1,9 @@
+<?xml version = "1.0"?>
+	<config>
+      <modules>
+		 <Nexmo_Nexmosms>
+            <active>true</active>
+            <codePool>local</codePool>
+         </Nexmo_Nexmosms>
+       </modules>
+    </config>
